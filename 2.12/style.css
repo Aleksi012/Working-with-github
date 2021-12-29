@@ -1,0 +1,48 @@
+div {
+    margin: 10px;
+
+}
+h1 {
+    color: red;
+}
+
+p > span {
+    font-weight: bold;
+}
+
+.blue {
+    color: blue;
+}
+
+#main-heading, h1 + p {
+    color: green;
+}
+
+h1 ~ p {
+    font-style: italic;
+}
+
+.purple {
+    color: purple;
+}
+
+div > p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input[required] {
+    border: 2px solid black;
+}
+
+input:focus {
+    border-color: green;
+}
+
+
+p:hover {
+    font-size: 2rem;
+}
+
+[class ="article"] {
+    font-family: 'Courier New', Courier, monospace;
+}
