@@ -1,0 +1,36 @@
+#navbar {
+  background-color: #2727e9 !important;
+  font-size: 30px;
+  color: white !important;
+}
+
+#historia {
+  color: white;
+}
+
+#nykyaika {
+  color: white;
+}
+
+.navbar-brand {
+  font-size: 30px;
+  color: white !important;
+}
+
+body {
+  background-color: #f7ff82;
+}
+
+#accordionPanelIsStayOpenExample {
+  width: 570px !important;
+}
+
+.accordion {
+  padding-top: 50px;
+}
+
+img {
+  padding-top: 50px;
+}
+
+/*# sourceMappingURL=built_historia.css.map */

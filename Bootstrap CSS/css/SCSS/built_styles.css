@@ -1,0 +1,78 @@
+#leedslogo {
+  padding: 20px;
+}
+
+h1 {
+  padding-left: 20px;
+}
+
+#kuva2 {
+  width: 900px !important;
+  height: 500px !important;
+}
+
+#kuva3 {
+  width: 900px !important;
+  height: 500px !important;
+}
+
+#kuva4 {
+  width: 900px !important;
+  height: 500px !important;
+}
+
+#kuva5 {
+  width: 900px !important;
+  height: 500px !important;
+}
+
+#carouselExampleInterval {
+  float: right;
+  display: block;
+  margin-left: auto;
+  margin-right: 450px;
+  width: 50%;
+}
+
+body {
+  background-color: #e9fa00;
+}
+
+#navbar {
+  background-color: #2727e9 !important;
+  font-size: 30px;
+  color: white !important;
+}
+
+.navbar-brand {
+  font-size: 30px;
+  color: white !important;
+}
+
+#historia {
+  color: white;
+}
+
+#nykyaika {
+  color: white;
+}
+
+#homekit {
+  display: block;
+  margin-right: 0px;
+  height: 400px;
+  float: right;
+}
+
+#awaykit {
+  display: absolute;
+  margin-right: 0;
+  height: 400px;
+  float: right;
+}
+
+#colum1 {
+  float: left !important;
+}
+
+/*# sourceMappingURL=built_styles.css.map */
