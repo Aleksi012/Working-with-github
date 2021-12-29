@@ -1,0 +1,52 @@
+#navbar {
+    background-color: rgb(39, 39, 233) !important;
+    font-size: 30px;
+    color: white !important;
+}
+
+
+#historia {
+    color: white;
+}
+
+#nykyaika {
+    color: white;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    color: white !important;
+}
+
+body {
+    
+    background-color: rgb(247, 255, 130);
+}
+
+.container {
+    float: left;
+    padding: 50px;
+}
+
+button {
+    height: 100px;
+    width: 200px;
+    font-size: 30px !important;
+    position: absolute;
+}
+
+.col {
+    width: 0px;
+    color: white;
+    
+}
+
+.row {
+    width: 1600px;
+}
+
+#col1 {
+    color: black;
+}
+
+
